@@ -1,5 +1,4 @@
-# Spotify Playlist Analysis
-
+<h1 align="center">Spotify Playlist Analysis</h1>
 ## Table of Contents
 
 - [Overview](#overview) :eyes:
